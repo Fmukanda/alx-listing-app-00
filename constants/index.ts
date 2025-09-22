@@ -360,3 +360,18 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps []  =  [
     discount: ""
   }
 ];
+
+export const HERO_BACKGROUND_IMAGE = "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&h=800&q=80";
+
+export const FILTER_OPTIONS = [
+  "All",
+  "Top Villa",
+  "Self Checkin",
+  "Luxury",
+  "Beachfront",
+  "Mountain View",
+  "City Center",
+  "Pet Friendly",
+  "Pool",
+  "Free Parking"
+];
